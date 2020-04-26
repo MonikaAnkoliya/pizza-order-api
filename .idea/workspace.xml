@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f5b4379-2da1-4732-935e-3726b967489d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +30,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -60,7 +65,7 @@
       <workItem from="1587835983132" duration="858000" />
       <workItem from="1587888086944" duration="1842000" />
       <workItem from="1587898170091" duration="1537000" />
-      <workItem from="1587900239591" duration="4240000" />
+      <workItem from="1587900239591" duration="7214000" />
     </task>
     <servers />
   </component>
@@ -68,6 +73,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="504" y="300" width="673" height="472" key="find.popup" timestamp="1587914392001">
+      <screen x="56" y="23" width="1624" height="1027" />
+    </state>
+    <state x="504" y="300" width="673" height="472" key="find.popup/56.23.1624.1027@56.23.1624.1027" timestamp="1587914392001" />
     <state x="555" y="393" key="git4idea.ui.GitTagDialog" timestamp="1587800378000">
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
