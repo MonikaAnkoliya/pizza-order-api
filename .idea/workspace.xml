@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f5b4379-2da1-4732-935e-3726b967489d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
       <workItem from="1587835983132" duration="858000" />
       <workItem from="1587888086944" duration="1842000" />
       <workItem from="1587898170091" duration="1537000" />
-      <workItem from="1587900239591" duration="2428000" />
+      <workItem from="1587900239591" duration="4240000" />
     </task>
     <servers />
   </component>
@@ -70,5 +72,21 @@
       <screen x="56" y="23" width="1624" height="1027" />
     </state>
     <state x="555" y="393" key="git4idea.ui.GitTagDialog/56.23.1624.1027@56.23.1624.1027" timestamp="1587800378000" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1587907291750">
+      <screen x="56" y="23" width="1624" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/56.23.1624.1027@56.23.1624.1027" timestamp="1587907291750" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app.js</url>
+          <line>19</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

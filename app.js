@@ -17,11 +17,11 @@ app.use(cors());
 app.use('/product',productRouter)
 app.use('/history',historyRouter)
 
-app.listen(4000, (err, res) => {
+app.listen(process.env.PORT || 4000, (err, res) => {
     if(err){
         console.log("Error occurred "+err.toString());
     } else {
-        console.log("Server is listening on port 4000")
+        console.log(`Server is listening on port ${process.env.PORT || 4000}`)
     }
 });
 
