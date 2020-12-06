@@ -15,5 +15,4 @@ After you have installed all dependencies, you may run the app.
 - `node app.js`
 - Go to `http://localhost:4000/product`
 
-### Live preview available at:
-* https://pizaa-56z.herokuapp.com/product
+
